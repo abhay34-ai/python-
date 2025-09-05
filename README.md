@@ -23,8 +23,8 @@ The goal was to practice Python fundamentals and get hands-on experience in a sh
 ## Resources
 
 * [Python Official Documentation](https://docs.python.org/3/)
-* \[Chai-or Code Series] (A[dd your link](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s))
+* \[Chai-or Code Series] ([chai aur code](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s))
 
-```
+
 
 
